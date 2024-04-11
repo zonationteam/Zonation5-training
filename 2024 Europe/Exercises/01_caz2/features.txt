@@ -1,0 +1,15 @@
+filename
+../data/sdms/current/Acer_campestre_ens-sdms_cur2005_prob_pot.tif
+../data/sdms/current/Alnus_glutinosa_ens-sdms_cur2005_prob_pot.tif
+../data/sdms/current/Arbutus_unedo_ens-sdms_cur2005_prob_pot.tif
+../data/sdms/current/Aria_edulis_ens-sdms_cur2005_prob_pot.tif
+../data/sdms/current/Betula_pubescens_ens-sdms_cur2005_prob_pot.tif
+../data/sdms/current/Castanea_sativa_ens-sdms_cur2005_prob_pot.tif
+../data/sdms/current/Celtis_australis_ens-sdms_cur2005_prob_pot.tif
+../data/sdms/current/Fraxinus_angustifolia_ens-sdms_cur2005_prob_pot.tif
+../data/sdms/current/Juglans_regia_ens-sdms_cur2005_prob_pot.tif
+../data/sdms/current/Laurus_nobilis_ens-sdms_cur2005_prob_pot.tif
+../data/sdms/current/Pistacia_lentiscus_ens-sdms_cur2005_prob_pot.tif
+../data/sdms/current/Populus_alba_ens-sdms_cur2005_prob_pot.tif
+../data/sdms/current/Tilia_cordata_ens-sdms_cur2005_prob_pot.tif
+../data/sdms/current/Ulmus_glabra_ens-sdms_cur2005_prob_pot.tif

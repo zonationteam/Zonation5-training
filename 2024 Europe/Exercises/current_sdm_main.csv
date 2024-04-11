@@ -1,0 +1,68 @@
+group weight filename SELECTED
+1 4.1 ../data/sdms/current/Abies_alba_ens-sdms_cur2005_prob_pot.tif X
+14 3.4 ../data/sdms/current/Acer_campestre_ens-sdms_cur2005_prob_pot.tif x
+14 4 ../data/sdms/current/Acer_opalus_ens-sdms_cur2005_prob_pot.tif 
+14 3.1 ../data/sdms/current/Acer_platanoides_ens-sdms_cur2005_prob_pot.tif 
+14 0.9 ../data/sdms/current/Acer_pseudoplatanus_ens-sdms_cur2005_prob_pot.tif 
+3 2.3 ../data/sdms/current/Alnus_glutinosa_ens-sdms_cur2005_prob_pot.tif x
+3 4.2 ../data/sdms/current/Alnus_incana_ens-sdms_cur2005_prob_pot.tif 
+5 2.7 ../data/sdms/current/Arbutus_unedo_ens-sdms_cur2005_prob_pot.tif x
+12 3.1 ../data/sdms/current/Aria_edulis_ens-sdms_cur2005_prob_pot.tif x
+3 0.3 ../data/sdms/current/Betula_pendula_ens-sdms_cur2005_prob_pot.tif 
+3 2.1 ../data/sdms/current/Betula_pubescens_ens-sdms_cur2005_prob_pot.tif x
+12 1.8 ../data/sdms/current/Borkhausenia_intermedia_ens-sdms_cur2005_prob_pot.tif 
+3 3 ../data/sdms/current/Carpinus_betulus_ens-sdms_cur2005_prob_pot.tif 
+3 2.8 ../data/sdms/current/Carpinus_orientalis_ens-sdms_cur2005_prob_pot.tif 
+7 3.2 ../data/sdms/current/Castanea_sativa_ens-sdms_cur2005_prob_pot.tif x
+4 4.8 ../data/sdms/current/Celtis_australis_ens-sdms_cur2005_prob_pot.tif x
+6 0.3 ../data/sdms/current/Ceratonia_siliqua_ens-sdms_cur2005_prob_pot.tif 
+12 3.3 ../data/sdms/current/Cormus_domestica_ens-sdms_cur2005_prob_pot.tif 
+3 1.1 ../data/sdms/current/Corylus_avellana_ens-sdms_cur2005_prob_pot.tif 
+1 3.1 ../data/sdms/current/Cupressus_sempervirens_ens-sdms_cur2005_prob_pot.tif X
+7 3.4 ../data/sdms/current/Fagus_sylvatica_ens-sdms_cur2005_prob_pot.tif 
+11 1.5 ../data/sdms/current/Fraxinus_angustifolia_ens-sdms_cur2005_prob_pot.tif x
+11 2.5 ../data/sdms/current/Fraxinus_excelsior_ens-sdms_cur2005_prob_pot.tif 
+11 3.9 ../data/sdms/current/Fraxinus_ornus_ens-sdms_cur2005_prob_pot.tif 
+8 1.2 ../data/sdms/current/Juglans_regia_ens-sdms_cur2005_prob_pot.tif x
+1 1.3 ../data/sdms/current/Juniperus_thurifera_ens-sdms_cur2005_prob_pot.tif X
+1 2 ../data/sdms/current/Larix_decidua_ens-sdms_cur2005_prob_pot.tif X
+9 1.9 ../data/sdms/current/Laurus_nobilis_ens-sdms_cur2005_prob_pot.tif x
+12 1.3 ../data/sdms/current/Malus_sylvestris_ens-sdms_cur2005_prob_pot.tif 
+11 3.6 ../data/sdms/current/Olea_europaea_ens-sdms_cur2005_prob_pot.tif 
+3 4.9 ../data/sdms/current/Ostrya_carpinifolia_ens-sdms_cur2005_prob_pot.tif 
+1 1.2 ../data/sdms/current/Picea_abies_ens-sdms_cur2005_prob_pot.tif X
+1 3.7 ../data/sdms/current/Pinus_brutia_ens-sdms_cur2005_prob_pot.tif X
+1 5 ../data/sdms/current/Pinus_cembra_ens-sdms_cur2005_prob_pot.tif 
+1 4.6 ../data/sdms/current/Pinus_halepensis_ens-sdms_cur2005_prob_pot.tif 
+1 3.4 ../data/sdms/current/Pinus_nigra_ens-sdms_cur2005_prob_pot.tif 
+1 3.9 ../data/sdms/current/Pinus_pinaster_ens-sdms_cur2005_prob_pot.tif 
+1 3 ../data/sdms/current/Pinus_pinea_ens-sdms_cur2005_prob_pot.tif 
+1 4 ../data/sdms/current/Pinus_sylvestris_ens-sdms_cur2005_prob_pot.tif 
+2 2.8 ../data/sdms/current/Pistacia_lentiscus_ens-sdms_cur2005_prob_pot.tif x
+2 1.3 ../data/sdms/current/Pistacia_terebinthus_ens-sdms_cur2005_prob_pot.tif 
+13 2.6 ../data/sdms/current/Populus_alba_ens-sdms_cur2005_prob_pot.tif x
+13 2.7 ../data/sdms/current/Populus_nigra_ens-sdms_cur2005_prob_pot.tif 
+13 3.2 ../data/sdms/current/Populus_tremula_ens-sdms_cur2005_prob_pot.tif 
+12 2.3 ../data/sdms/current/Prunus_avium_ens-sdms_cur2005_prob_pot.tif 
+12 1.7 ../data/sdms/current/Prunus_padus_ens-sdms_cur2005_prob_pot.tif 
+12 5 ../data/sdms/current/Pyrus_communis_ens-sdms_cur2005_prob_pot.tif 
+7 4.1 ../data/sdms/current/Quercus_cerris_ens-sdms_cur2005_prob_pot.tif 
+7 1.9 ../data/sdms/current/Quercus_coccifera_ens-sdms_cur2005_prob_pot.tif 
+7 3.2 ../data/sdms/current/Quercus_faginea_ens-sdms_cur2005_prob_pot.tif 
+7 0.5 ../data/sdms/current/Quercus_frainetto_ens-sdms_cur2005_prob_pot.tif 
+7 3.8 ../data/sdms/current/Quercus_ilex_ens-sdms_cur2005_prob_pot.tif 
+7 0.3 ../data/sdms/current/Quercus_petraea_ens-sdms_cur2005_prob_pot.tif 
+7 4.9 ../data/sdms/current/Quercus_pubescens_ens-sdms_cur2005_prob_pot.tif 
+7 2.3 ../data/sdms/current/Quercus_pyrenaica_ens-sdms_cur2005_prob_pot.tif 
+7 3.8 ../data/sdms/current/Quercus_robur_ens-sdms_cur2005_prob_pot.tif 
+7 3.1 ../data/sdms/current/Quercus_suber_ens-sdms_cur2005_prob_pot.tif 
+6 2.9 ../data/sdms/current/Robinia_pseudoacacia_ens-sdms_cur2005_prob_pot.tif 
+13 3 ../data/sdms/current/Salix_alba_ens-sdms_cur2005_prob_pot.tif 
+12 2.7 ../data/sdms/current/Sorbus_aucuparia_ens-sdms_cur2005_prob_pot.tif 
+1 3.9 ../data/sdms/current/Taxus_baccata_ens-sdms_cur2005_prob_pot.tif X
+10 3.9 ../data/sdms/current/Tilia_cordata_ens-sdms_cur2005_prob_pot.tif x
+10 3.3 ../data/sdms/current/Tilia_platyphyllos_ens-sdms_cur2005_prob_pot.tif 
+12 1.5 ../data/sdms/current/Torminalis_glaberrima_ens-sdms_cur2005_prob_pot.tif 
+15 4.7 ../data/sdms/current/Ulmus_glabra_ens-sdms_cur2005_prob_pot.tif x
+15 2.8 ../data/sdms/current/Ulmus_laevis_ens-sdms_cur2005_prob_pot.tif 
+15 1.6 ../data/sdms/current/Ulmus_minor_ens-sdms_cur2005_prob_pot.tif 
