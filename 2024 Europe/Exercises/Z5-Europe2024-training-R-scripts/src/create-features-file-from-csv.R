@@ -73,28 +73,20 @@ create_features_file(
 # Exercise 5
 create_features_file(
   features_file='../data/current_sdm_main.csv',
-  output_file='../../05_caz2_fulldata_wghts_humanfootprint/features.txt',
+  output_file='../../05_caz2_fulldata_wghts_gHM/features.txt',
   columns=c('weight', 'filename'),
   all_selected_features=TRUE
 )
 write(
   '-10 "../data/other_layers/gHM_Europe.tif"',
-    '../../05_caz2_fulldata_wghts_humanfootprint/features.txt',
+    '../../05_caz2_fulldata_wghts_gHM/features.txt',
   append=TRUE
 )
 
-# Exercise 6 natura2000
+# Exercise 6
 create_features_file(
   features_file='../data/current_sdm_main.csv',
   output_file='../../06_caz2_fulldata_wghts_hmask_natura2000/features.txt',
-  columns=c('weight', 'filename'),
-  all_selected_features=TRUE
-)
-
-# Exercise 6 wpda
-create_features_file(
-  features_file='../data/current_sdm_main.csv',
-  output_file='../../06_caz2_fulldata_wghts_hmask_wdpa/features.txt',
   columns=c('weight', 'filename'),
   all_selected_features=TRUE
 )
