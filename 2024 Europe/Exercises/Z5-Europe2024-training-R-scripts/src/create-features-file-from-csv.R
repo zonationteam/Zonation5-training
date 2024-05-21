@@ -86,7 +86,7 @@ write(
 # Exercise 6
 create_features_file(
   features_file='../data/current_sdm_main.csv',
-  output_file='../../06_caz2_fulldata_wghts_hmask_natura2000/features.txt',
+  output_file='../../06_caz2_fulldata_wghts_hmask/features.txt',
   columns=c('weight', 'filename'),
   all_selected_features=TRUE
 )
