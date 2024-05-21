@@ -1,3 +1,0 @@
-feature list file = features.txt
-analysis area mask layer = ../data/other_layers/area_mask.tif
-hierarchic mask layer = ../data/other_layers/hierarchic_mask_wdpa.tif
