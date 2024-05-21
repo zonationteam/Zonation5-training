@@ -11,4 +11,4 @@
 1.3 "../data/sdms/current/Juniperus_thurifera_ens-sdms_cur2005_prob_pot.tif"
 3.7 "../data/sdms/current/Pinus_brutia_ens-sdms_cur2005_prob_pot.tif"
 4 "../data/sdms/current/Pinus_sylvestris_ens-sdms_cur2005_prob_pot.tif"
--10 "../data/other_layers/human_footprint2018.tif"
+-10 "../data/other_layers/gHM_Europe.tif"

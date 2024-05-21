@@ -14,7 +14,7 @@ create_features_file <- function(
 ) {
   features_df <- read.delim(features_file, sep=' ')
   output_df <- features_df %>%
-    filter(SELECTED != '') %>%
+    filter(SELECTED != '0') %>%
     arrange(SELECTED)
   if (all_selected_features) {
     write.table(
@@ -78,7 +78,7 @@ create_features_file(
   all_selected_features=TRUE
 )
 write(
-  '-10 "../data/other_layers/human_footprint2018.tif"',
+  '-10 "../data/other_layers/gHM_Europe.tif"',
     '../../05_caz2_fulldata_wghts_humanfootprint/features.txt',
   append=TRUE
 )
