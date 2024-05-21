@@ -5,7 +5,7 @@
 ## Roadmap
 - Europe
     - ✔️ Exercise setup files
-    - Data files
+    - ✔️ Data files
     - Training presentations
 - Uusimaa
     - Exercise setup files
