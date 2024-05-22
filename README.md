@@ -4,6 +4,7 @@
 
 ## Overview
 This repository contains a collection of teaching materials designed for educational purposes within the Zonation software framework. The main objective was to provide an accessible resource for educators and students to explore Zonation's capabilities and deepen their understanding of relevant concepts in spatial conservation planning. Specific information regarding the R scripts and data folder can be found within their respective README files. Please acknowledge this repository and all included materials when using them for teaching.
+
 **Cite as:** 
 > Joel Jalkanen, Thiago Cavalcante, Ilmari Kohonen, Ilkka Kivistö, Elina Virtanen, Tuuli 
 > Toivonen, Joona Lehtomäki, Peter Kullberg, Heini Kujala & Atte Moilanen (2024) Zonation 
