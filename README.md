@@ -13,7 +13,7 @@ This repository contains a collection of teaching materials designed for educati
 
 
 > Joel Jalkanen, Elina Virtanen, Tuuli Toivonen, Joona Lehtomäki, Peter 
-> Kullberg, Heini Kujala & Atte Moilanen (2021) Zonation software training set > with the Uusimaa data. Available
+> Kullberg, Heini Kujala & Atte Moilanen (2021) Zonation software training set with the Uusimaa data. Available
 > at <https://github.com/zonationteam/Zonation5-training>.
 
 Repository structure:
