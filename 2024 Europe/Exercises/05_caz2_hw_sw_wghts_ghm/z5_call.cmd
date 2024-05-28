@@ -1,6 +1,6 @@
 @setlocal
 @PATH=<Insert your computer's path here>;%PATH%
 
-z5 -awh --gui --mode=CAZ2 06_caz2_fulldata_wghts_hmask.z5 out
+z5 -aw --gui --mode=CAZ2 05_caz2_hw_sw_wghts_ghm.z5 out
 
 @pause
