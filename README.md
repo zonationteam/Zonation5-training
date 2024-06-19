@@ -33,7 +33,7 @@ Repository structure:
 To reproduce the exercises, follow these steps:
 1. **Download the Repository**: Clone or download the entire repository to your local machine.
 2. **Navigate to the Desired Setup**: Open the setup folder corresponding to the analysis you wish to reproduce.
-3. **Edit the z5_call file**: Edit the z5_call file by opening it in Notepad, replace <Insert your computer's path here> with the path to z5.exe on your computer (e.g., ‘C:/Program Files (x86)/Zonation5’), and save the file.
+3. **Edit the z5_call file**: Edit the z5_call file by opening it in Notepad, replace <Insert your computer's path here> with the path to z5.exe on your computer (e.g., ‘C:/Program Files (x86)/Zonation5’), and save the file. Note that the replacement should be made without the brackets.
 4. **Execute Batch Files**: Execute the batch file (.cmd) to initiate the analyses.
 
 That's it! 😁🎉 Simply follow these steps to effortlessly replicate the exercises and explore different Zonation configurations in the repository. Don't hesitate to reach out with questions, suggestions, or feedback. Enjoy your Zonation and R exploration! 🚀
