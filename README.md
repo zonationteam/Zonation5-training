@@ -39,7 +39,11 @@ To reproduce the exercises, follow these steps:
 That's it! 😁🎉 Simply follow these steps to effortlessly replicate the exercises and explore different Zonation configurations in the repository. Don't hesitate to reach out with questions, suggestions, or feedback. Enjoy your Zonation and R exploration! 🚀
 
 ## Training presentations
-Coming soon...
+The presentations from the ECCB course 2024 are available as PDFs in the Training Presentations folder. There, you can find three files:
+
+1. **Zonation 5 General Info**
+2. **Zonation 5 Hands-on Exercises_EU**
+3. **Zonation case examples**
 
 ## Additional Educational Resources
 - [Exploring Zonation 5 Settings and Outputs](https://thiago-cav.github.io/zonation_workflow/)
