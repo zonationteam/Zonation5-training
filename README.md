@@ -49,7 +49,7 @@ Coming soon...
 - Europe
     - ✔️ Exercise setup files
     - ✔️ Data files
-    - Training presentations
+    - ✔️ Training presentations
 - Uusimaa
     - Exercise setup files
     - Data files
